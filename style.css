@@ -46,3 +46,26 @@ h1 {
 #middle-recipies {
     text-align: center;
 }
+
+.box-desing {
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+#flex-cont>div {
+    margin: 20 px;
+    padding-left: 15%;
+
+}
+
+.last-mission {
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
